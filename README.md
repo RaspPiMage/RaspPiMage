@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RaspPiMage
+- 👀 I’m interested in Raspberry Pi, Python, Java, JavaScript, C++.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on nothing yet.
+- 📫 How to reach me ethan.kempf@outlook.com
